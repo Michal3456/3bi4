@@ -68,16 +68,16 @@ Dillinger uses a number of open source projects to work properly:
 
 ## Layout for form in HTML
 
-[https://github.com/Michal3456/3bi4/blob/main/15/form.png][form]
+[link to layout for form in HTML][form]
 
 ## Sketch a database without establishing a relationship
 
 [link to sketch a database][db]
 
- [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ [erd]: <https://github.com/Michal3456/3bi4/blob/main/15/erd.png>
  
- [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
+ [osd]: <https://github.com/Michal3456/3bi4/blob/main/15/osd.png>
  
- [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
+ [form]: <https://github.com/Michal3456/3bi4/blob/main/15/form.png>
  
- [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
+ [db]: <https://github.com/Michal3456/3bi4/blob/main/15/db.png>
