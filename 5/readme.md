@@ -1,4 +1,4 @@
-# Obsługa drukarki 3D
+# Rozpoznawanie Twarzy
 
 ## _contractor: Bartłomiej Czerwiński_
 ## _principal: Michał Czerwiński_
