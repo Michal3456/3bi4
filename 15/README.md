@@ -1,25 +1,28 @@
-# CKZiU room reservation system
+# Basic package tracking system
 
-## _contractor: Michał Rutkowski_
+## _contractor: Rutkowski Michał_
 ## _principal: Michał Czerwiński_
 
 
-| dossier version | date |
-| ------ | ------ |
-| 1.0 | 17.11.2021 |
-| 1.1 | 17.11.2021 |
+| dossier version | date | description |
+| ------ | ------ | ------ |
+| 1.0 | 17.11.2021 | none |
+| 1.1 | 17.11.2021 | adding ERD |
+| 1.2 | 25.11.2021 | adding organizational structure |
+| 1.3 | 26.11.2021 | adding layout form in HTML |
+| 1.4 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## Abstract 
-TBA
+The project concerns a system that allows for simple package tracking using package tracking ID like in DPD company system. 
 
 ## Data structure
 
 | data | type |
 | ------ | ------ |
 | INPUT | data form |
-| OUTPUT | room reservation message and database entry |
+| OUTPUT | basic information about package, their position and other usefull informations |
 
 ## Main functionalities
 
@@ -34,6 +37,13 @@ The above functionalities are tested and work according to their roles.
 > The code contained in the project, does not contain malware and is safe to use. 
 > I am personally responsible for its operation: Rutkowski Michał.
 
+## Entity Relationship Diagram
+
+[link to diagram ERD in jpg][erd]
+
+## Organizational structure diagram
+
+[link to diagram OSD in jpg][osd]
 
 ## Cpecific functionalities
 
@@ -55,3 +65,19 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+
+## Layout for form in HTML
+
+[link to layout][form]
+
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
+ [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+ 
+ [osd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(1).png>
+ 
+ [form]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(2).png>
+ 
+ [db]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.drawio(6).png>
