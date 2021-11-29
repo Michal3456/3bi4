@@ -25,6 +25,7 @@ The above functionalities are tested and work according to their roles.
   
   
   Entity Relationship Diagram
+
 link to diagram:https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG
 
 Organizational structure diagram
