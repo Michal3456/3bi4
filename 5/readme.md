@@ -27,7 +27,7 @@ link to diagram:
 
 Organizational structure diagram
 
-link to diagram OSD:
+link to diagram OSD:https://github.com/Michal3456/3bi4/blob/main/5/Diagram.png
 
 ## Cpecific functionalities
 
