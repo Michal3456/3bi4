@@ -8,7 +8,8 @@
 | ------ | ------ | ------ |
 | 1.0 | 17.11.2021 |  none |
 | 1.1 | 28.11.2021 |  Adding ERD |
-| 1.2 | 28.11.2021 |  adding organizational structure |
+| 1.2 | 28.11.2021 |  Adding a organizational structure |
+| 1.3 | 29.11.2021 |  Adding a Form |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -67,7 +68,12 @@ Dillinger uses a number of open source projects to work properly:
 - [MySql/MariaDb]
 - [Apache]
 
+
+## Layout for form in HTML
+
+[link to layout][form]
+
   [erd]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/diagram.png>
  
   [osd]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/org.png>
-
+  [form]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/form.PNG>
