@@ -1,6 +1,6 @@
 # Obsługa drukarki 3D
 
-## _contractor: Bartek Biegański_
+## _contractor: Bartłomiej Czerwiński_
 ## _principal: Michał Czerwiński_
 
 
