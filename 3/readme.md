@@ -22,6 +22,8 @@ The above functionalities are tested and work according to their roles.
 > does not compromise cyberspace or any other space of any state. 
 > The code contained in the project, does not contain malware and is safe to use. 
 > I am personally responsible for its operation: Bartek Biegański.
+  
+  
   Entity Relationship Diagram
 link to diagram:https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG
 
