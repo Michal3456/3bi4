@@ -23,7 +23,7 @@ The project concerns a system that allows for simple package tracking using pack
 | data | type |
 | ------ | ------ |
 | INPUT | data form |
-| OUTPUT | basic information about package, their position and other usefull informations |
+| OUTPUT | basic information about package like status, location |
 
 ## Main functionalities
 
