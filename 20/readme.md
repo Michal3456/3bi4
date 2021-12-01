@@ -10,6 +10,8 @@
 | 1.1 | 28.11.2021 |  Adding ERD |
 | 1.2 | 28.11.2021 |  Adding a organizational structure |
 | 1.3 | 29.11.2021 |  Adding a Form |
+| 1.4 | 1.12.2021 |  Adding a Wireframe |
+
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -73,7 +75,13 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to layout][form]
 
+## Wireframe the main form on the application subpage
+
+[Wireframe the main form][wireframeMain]
+
+
   [erd]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/diagram.png>
  
   [osd]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/org.png>
   [form]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/form.PNG>
+  [wireframeMain]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/wireframe.png>
