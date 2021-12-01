@@ -79,12 +79,12 @@ Dillinger uses a number of open source projects to work properly:
 
 [Wireframe the main form][wireframeMain]
 
- [erd]: <https://github.com/Michal3456/3bi4/blob/main/15/erd.png>
+ [erd]: <https://github.com/Michal3456/3bi4/blob/main/15/files/erdDiag.png>
  
- [osd]: <https://github.com/Michal3456/3bi4/blob/main/15/osdDiag.png>
+ [osd]: <https://github.com/Michal3456/3bi4/blob/main/15/files/osdDiag.png>
  
- [form]: <https://github.com/Michal3456/3bi4/blob/main/15/form.png>
+ [form]: <https://github.com/Michal3456/3bi4/blob/main/15/files/form.png>
  
- [db]: <https://github.com/Michal3456/3bi4/blob/main/15/database.png>
+ [db]: <https://github.com/Michal3456/3bi4/blob/main/15/files/database.png>
  
- [wireframeMain]: <https://github.com/Michal3456/3bi4/blob/main/15/wireframe.png>
+ [wireframeMain]: <https://github.com/Michal3456/3bi4/blob/main/15/files/wireframe.png>
