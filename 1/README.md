@@ -61,5 +61,6 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
-
+[Wireframe the main form][wireframeMain]
  [erd]: <https://github.com/Michal3456/example_project/blob/main/sprites/Untitled%20Diagram.jpg>
+[wireframeMain]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Frame/Frame.PNG>
