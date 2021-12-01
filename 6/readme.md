@@ -68,3 +68,4 @@ Dillinger uses a number of open source projects to work properly:
 [erd]: https://github.com/Getkson/maciej-getka/blob/main/cw1/diagr.png
 
 [osd]:https://github.com/Getkson/maciej-getka/blob/main/cw1/diagr.png
+[DB]: https://github.com/Getkson/maciej-getka/blob/main/cw1/dddddd.png
