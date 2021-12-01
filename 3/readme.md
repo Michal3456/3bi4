@@ -1,13 +1,18 @@
-# Obsługa drukarki 3D
+# Operation of a 3d printer
 
 ## _contractor: Bartek Biegański_
 ## _principal: Michał Czerwiński_
 
 
-| dossier version | date |
-| ------ | ------ |
+| dossier version | date | description |
+| ------ | ------ | ------ |
+| 1.0 | 17.11.2021 | none |
 | 1.1 | 17.11.2021 | adding ERD |
-| 1.2 | 17.11.2021 | adding AOS |
+| 1.2 | 25.11.2021 | adding organizational structure |
+| 1.3 | 26.11.2021 | adding layout form in HTML |
+| 1.4 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
+| 1.5 | 30.11.2021 | add wireframes |
+
 ## Abstract 
 the project concerns displaying a page with support for a 3D printer.
 
@@ -24,16 +29,11 @@ The above functionalities are tested and work according to their roles.
 > I am personally responsible for its operation: Bartek Biegański.
   
   
-Entity Relationship Diagram: https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG
+##Entity Relationship Diagram: 
+https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG
 
-Organizational structure diagram: https://github.com/Michal3456/3bi4/blob/main/3/Untitled%20Diagram.drawio.png 
-
-Layout: https://github.com/Michal3456/3bi4/blob/main/3/form%20.png
-
-Wire frame: https://github.com/Michal3456/3bi4/blob/main/3/wireframe.PNG
-
-Data base: https://github.com/Michal3456/3bi4/blob/main/3/database.PNG
-
+##Organizational structure diagram: 
+https://github.com/Michal3456/3bi4/blob/main/3/Untitled%20Diagram.drawio.png 
 
 
 ## Cpecific functionalities
@@ -56,3 +56,13 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+
+##Layout: 
+https://github.com/Michal3456/3bi4/blob/main/3/form%20.png
+
+##Wire frame: 
+https://github.com/Michal3456/3bi4/blob/main/3/wireframe.PNG
+
+##Data base: 
+https://github.com/Michal3456/3bi4/blob/main/3/database.PNG
+
