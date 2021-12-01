@@ -25,7 +25,7 @@ The above functionalities are tested and work according to their roles.
   Entity Relationship Diagram
 link to diagram:
 
-Organizational structure diagram
+## Organizational structure diagram
 
 link to diagram OSD:https://github.com/Michal3456/3bi4/blob/main/5/Diagram.png
 
@@ -35,6 +35,10 @@ A subsection that presents a detailed description of the individual functionalit
 
 ### Relational database based on SQL language
 
+## Entity Relationship Diagram
+link to diagram Rd:https://github.com/Michal3456/3bi4/blob/main/5/Zrzut%20ekranu%202021-12-01%20133326.png
+
+[link to diagram OSD in PNG][osd]
 ### Frot-end created in JavaScript and CSS technologies
 
 ### Back-end executed in PHP language and auxiliary scripts
@@ -49,3 +53,9 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+- ## Layout for form in HTML
+[link to form in PNG][form]
+
+[erd]: 
+[osd]: 
+[form]: 
