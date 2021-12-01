@@ -32,7 +32,7 @@ Organizational structure diagram
 
 link to diagram OSD:https://github.com/Michal3456/3bi4/blob/main/3/Untitled%20Diagram.drawio.png 
 
-Form png
+Layout 
 
 Diagram form:https://github.com/Michal3456/3bi4/blob/main/3/form%20.png
 
