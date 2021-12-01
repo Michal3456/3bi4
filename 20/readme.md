@@ -11,6 +11,7 @@
 | 1.2 | 28.11.2021 |  Adding a organizational structure |
 | 1.3 | 29.11.2021 |  Adding a Form |
 | 1.4 | 1.12.2021 |  Adding a Wireframe |
+| 1.5 | 1.12.2021 |  database with only tables - sketch a database without establishing a relationship |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -79,9 +80,14 @@ Dillinger uses a number of open source projects to work properly:
 
 [Wireframe the main form][wireframeMain]
 
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
 
   [erd]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/diagram.png>
  
   [osd]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/org.png>
   [form]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/form.PNG>
   [wireframeMain]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/wireframe.png>
+  [db]: <https://github.com/Michal3456/3bi4/blob/main/20/sprites/sketch.png>
