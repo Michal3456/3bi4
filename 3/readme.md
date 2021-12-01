@@ -29,10 +29,10 @@ The above functionalities are tested and work according to their roles.
 > I am personally responsible for its operation: Bartek Biegański.
   
   
-##Entity Relationship Diagram: 
+## Entity Relationship Diagram: 
 https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG
 
-##Organizational structure diagram: 
+## Organizational structure diagram: 
 https://github.com/Michal3456/3bi4/blob/main/3/Untitled%20Diagram.drawio.png 
 
 
@@ -57,12 +57,12 @@ Dillinger uses a number of open source projects to work properly:
 - [MySql/MariaDb]
 - [Apache]
 
-##Layout: 
+## Layout: 
 https://github.com/Michal3456/3bi4/blob/main/3/form%20.png
 
-##Wire frame: 
+## Wire frame: 
 https://github.com/Michal3456/3bi4/blob/main/3/wireframe.PNG
 
-##Data base: 
+## Data base: 
 https://github.com/Michal3456/3bi4/blob/main/3/database.PNG
 
