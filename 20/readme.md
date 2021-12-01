@@ -1,4 +1,4 @@
-# CKZiU game
+#  Processing of data from gas sensors 
 
 ## _contractor: Mikołaj Tyburski_
 ## _principal: Michał Czerwiński_
