@@ -82,6 +82,10 @@ Dillinger uses a number of open source projects to work properly:
 ## Layout for form in HTML
 [link to form in PNG][form]
 
+## Sketch a database without establishing a relationship
+
+[link to sketch a database][db]
+
 ## Wireframe the main form on the application subpage
 
 [Wireframe the main form][wireframeMain]
@@ -89,4 +93,5 @@ Dillinger uses a number of open source projects to work properly:
 [erd]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG>
 [osd]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram%20OSD.PNG>
 [form]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/form.PNG>
+[db]:<>
 [wireframeMain]: <https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Frame/Frame.PNG>
