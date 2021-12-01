@@ -1,4 +1,4 @@
-# Rozpoznawanie Twarzy
+# Face Recognition
 
 ## _contractor: Bartłomiej Czerwiński_
 ## _principal: Michał Czerwiński_
