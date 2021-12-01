@@ -6,8 +6,8 @@
 
 | dossier version | date |
 | ------ | ------ |
-| 1.0 | 17.11.2021 |
-| 1.1 | 17.11.2021 |
+| 1.1 | 17.11.2021 | adding ERD |
+| 1.2 | 17.11.2021 | adding AOS |
 ## Abstract 
 the project concerns displaying a page with support for a 3D printer.
 
@@ -24,17 +24,13 @@ The above functionalities are tested and work according to their roles.
 > I am personally responsible for its operation: Bartek Biegański.
   
   
-  Entity Relationship Diagram
+Entity Relationship Diagram: https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG
 
-link to diagram:https://github.com/Michal3456/3bi4/blob/main/2/Diagram/Diagram.PNG
+Organizational structure diagram: https://github.com/Michal3456/3bi4/blob/main/3/Untitled%20Diagram.drawio.png 
 
-Organizational structure diagram
+Layout: https://github.com/Michal3456/3bi4/blob/main/3/form%20.png
 
-link to diagram OSD:https://github.com/Michal3456/3bi4/blob/main/3/Untitled%20Diagram.drawio.png 
 
-Layout 
-
-Diagram form:https://github.com/Michal3456/3bi4/blob/main/3/form%20.png
 
 ## Cpecific functionalities
 
