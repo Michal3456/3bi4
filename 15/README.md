@@ -74,6 +74,10 @@ Dillinger uses a number of open source projects to work properly:
 
 [link to sketch a database][db]
 
+## Wireframe the main form on the application subpage
+
+[Wireframe the main form][wireframeMain]
+
  [erd]: <https://github.com/Michal3456/3bi4/blob/main/15/erd.png>
  
  [osd]: <https://github.com/Michal3456/3bi4/blob/main/15/osd.png>
@@ -81,3 +85,5 @@ Dillinger uses a number of open source projects to work properly:
  [form]: <https://github.com/Michal3456/3bi4/blob/main/15/form.png>
  
  [db]: <https://github.com/Michal3456/3bi4/blob/main/15/db.png>
+ 
+ [wireframeMain]: <https://github.com/Michal3456/3bi4/blob/main/15/wireframe.png>
