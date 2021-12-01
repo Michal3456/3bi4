@@ -81,7 +81,7 @@ Dillinger uses a number of open source projects to work properly:
 
  [erd]: <https://github.com/Michal3456/3bi4/blob/main/15/erd.png>
  
- [osd]: <https://github.com/Michal3456/3bi4/blob/main/15/osd.png>
+ [osd]: <https://github.com/Michal3456/3bi4/blob/main/15/osdDiag.png>
  
  [form]: <https://github.com/Michal3456/3bi4/blob/main/15/form.png>
  
