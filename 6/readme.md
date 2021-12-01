@@ -63,7 +63,8 @@ Dillinger uses a number of open source projects to work properly:
 - [MySql/MariaDb]
 - [Apache]
 
-## Sketch a database without establishing a relationship
+
 [link to sketch a database][db]
 [erd]: https://github.com/Getkson/maciej-getka/blob/main/cw1/diagr.png
+
 [osd]:https://github.com/Getkson/maciej-getka/blob/main/cw1/diagr.png
