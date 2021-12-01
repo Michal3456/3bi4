@@ -55,7 +55,4 @@ Dillinger uses a number of open source projects to work properly:
 - [Apache]
 - ## Layout for form in HTML
 [link to form in PNG][form]
-
-[erd]: 
-[osd]: 
-[form]: 
+https://github.com/Michal3456/3bi4/blob/main/5/Layout.png
