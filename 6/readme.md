@@ -34,6 +34,10 @@ The above functionalities are tested and work according to their roles.
 > The code contained in the project, does not contain malware and is safe to use. 
 > I am personally responsible for its operation: Getka Maciej.
 
+## Entity Relationship Diagram
+
+[link to diagram in jpg][erd]
+
 ## Cpecific functionalities
 
 A subsection that presents a detailed description of the individual functionalities on which the main functionalities are based.
@@ -54,3 +58,4 @@ Dillinger uses a number of open source projects to work properly:
 - [SQL]
 - [MySql/MariaDb]
 - [Apache]
+[erd]: https://github.com/Getkson/maciej-getka/blob/main/cw1/diagr.png
