@@ -30,6 +30,8 @@ Organizational structure diagram: https://github.com/Michal3456/3bi4/blob/main/3
 
 Layout: https://github.com/Michal3456/3bi4/blob/main/3/form%20.png
 
+Wire frame:
+
 
 
 ## Cpecific functionalities
