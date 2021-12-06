@@ -83,15 +83,9 @@ A subsection that presents a detailed description of the individual functionalit
 ## Wireframe the main form on the application subpage
 
 [Wireframe the main form][wireframeMain]
-
  [erd]: <https://github.com/Getkson/maciej-getka/blob/main/cw1/Untitled%20Diagram.jpg>
- 
  [osd]: <https://github.com/Getkson/maciej-getka/blob/main/cw1/dig.png>
- 
  [form]: <https://github.com/Getkson/maciej-getka/blob/main/cw1/jddd.png>
- 
  [db]: <https://github.com/Getkson/maciej-getka/blob/main/cw1/Untitled%20Diagram.drawio(6).png>
- 
  [wireframeMain]: <https://github.com/Getkson/maciej-getka/blob/main/cw1/wireframe%20subpage_simple.jpg>
- 
- [wireframeExample]: <https://github.com/Michal3456/example_project/blob/main/sprites/wireframe%20subpage_simple.jpg>
+ [wireframeExample]: <https://github.com/Getkson/maciej-getka/blob/main/cw1/ddd.jpg>
