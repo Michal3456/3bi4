@@ -89,8 +89,8 @@ A subsection that presents a detailed description of the individual functionalit
  
  [form]: <https://github.com/Getkson/maciej-getka/blob/main/cw1/jddd.png>
  
- [db]: <https://github.com/Getkson/maciej-getka/blob/main/cw1/Untitled%20Diagram.drawio(6).png>
+ [db]: https://github.com/Michal3456/3bi4/blob/main/6/folder/Untitled%20Diagram.drawio(6).png
  
- [wireframeMain]: <https://github.com/Getkson/maciej-getka/blob/main/cw1/wireframe%20subpage_simple.jpg>
+ [wireframeMain]: <https://github.com/Michal3456/3bi4/blob/main/6/folder/wireframe%20subpage_simple.jpg>
  
- [wireframeExample]: <https://github.com/Getkson/maciej-getka/blob/main/cw1/ddd.jpg>
+ [wireframeExample]: <https://github.com/Michal3456/3bi4/blob/main/6/folder/ddd.jpg>
