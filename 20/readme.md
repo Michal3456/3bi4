@@ -12,6 +12,7 @@
 | 1.3 | 29.11.2021 |  Adding a Form |
 | 1.4 | 1.12.2021 |  Adding a Wireframe |
 | 1.5 | 1.12.2021 |  database with only tables - sketch a database without establishing a relationship |
+| 1.6 | 8.12.2021 |  Adding Css |
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
