@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 50px;
+    width: 790px;
+    font-size: 28px;
+    color: white;
+}
+
+header{
+    background: rgb(81, 255, 0);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    width: 1000px;
+    height: 70px;
+    text-align: center;
+    line-height: 70px;
+    margin: 5px;
+}
+article{
+    background: green;
+    border-radius: 10px;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+aside{
+    background: rgb(190, 190, 190);
+    border-radius: 10px;
+    width: 280px;
+    height: 220px;
+    line-height: 220px;
+    text-align: center;
+    margin-left: 5px;
+    float: left;
+}
