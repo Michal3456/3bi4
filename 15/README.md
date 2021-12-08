@@ -12,6 +12,7 @@
 | 1.3 | 26.11.2021 | adding layout form in HTML |
 | 1.4 | 29.11.2021 | database with only tables - sketch a database without establishing a relationship |
 | 1.5 | 01.12.2021 | wireframe the main form on the application subpage |
+| 1.6 | 08.12.2021 | add .css file to main folder |
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -28,7 +29,7 @@ The project concerns a system that allows for simple package tracking using pack
 ## Main functionalities
 
 1. relational database based on SQL language
-1. frot-end created in JavaScript and CSS technologies
+1. front-end created in JavaScript and CSS technologies
 1. back-end executed in PHP language and auxiliary scripts
 
 The above functionalities are tested and work according to their roles.
