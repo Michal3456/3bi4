@@ -79,3 +79,4 @@ Dillinger uses a number of open source projects to work properly:
 [osd]: https://github.com/Michal3456/3bi4/blob/main/7/sprites/Diagram%20OSD.png
 [form]: https://github.com/Michal3456/3bi4/blob/main/7/sprites/Form%20layout.png
 [db]: https://github.com/Michal3456/3bi4/blob/main/7/sprites/Sketch.png
+[wireframeMain]: https://github.com/Michal3456/3bi4/blob/main/7/sprites/Wireframes.png
