@@ -1,4 +1,5 @@
 # 
+hand gestures
 
 
 ## contractor: Krystian Hoga 
@@ -18,6 +19,7 @@
 
 ## Abstract 
 
+The application is designed to detect and describe hand gestures
 
 ## Data structure
 
