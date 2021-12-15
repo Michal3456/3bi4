@@ -78,7 +78,7 @@ Dillinger uses a number of open source projects to work properly:
 
 [Wireframe the main form][wireframeMain]
 
-[erd]: <>
+[erd]: <https://github.com/Michal3456/3bi4/blob/main/10/diagramy/diag.PNG>
 [osd]: <>
 [form]: <>
 [db]:<>
