@@ -1,5 +1,5 @@
-# 
-hand gestures
+# Hand gestures 
+
 
 
 ## contractor: Krystian Hoga 
